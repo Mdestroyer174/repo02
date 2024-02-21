@@ -28,7 +28,7 @@
 
 ***Link de la chuleta***
 
-[![a](/img/4.png)]([www.google.es](https://education.github.com/git-cheat-sheet-education.pdf))
+[![a](/img/5.png)]([www.google.es](https://education.github.com/git-cheat-sheet-education.pdf))
 
 
 
