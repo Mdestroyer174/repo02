@@ -10,7 +10,7 @@
 
 **paso 2:** comandos hasta el commit
    
-| 🦖 **git add readme.me**                                 | 
+| 🦖 **git add readme.me** | 
 |-----------------------------------------------------------|
 | 🦖 **git commit -m "commit del readme del repositorio clonado desde github"**| 
 
@@ -18,13 +18,20 @@
 
 **paso extra:** comandos que hemos usado
    
-| 🦖 **git add**|            
-| 🦖 **git commit -m ""**|        
-| 🦖 **git push -u origin main**|   
+| 🦖 **git add**|
+|-----------------------------------------------------------|              
+| 🦖 **git commit -m ""**|
+        
+| 🦖 **git push -u origin main**|
+|-----------------------------------------------------------|   
 | 🦖 **git status**|    
-| 🦖 **git log**|  
+
+| 🦖 **git log**|
+|-----------------------------------------------------------|  
 | 🦖 **git remote -v**|  
-| 🦖 **git clone url**|  
+
+| 🦖 **git clone url**|
+|-----------------------------------------------------------|  
 
 ***Link de la chuleta***
 
