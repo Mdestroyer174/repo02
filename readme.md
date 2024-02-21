@@ -10,7 +10,7 @@
 
 **paso 2:** comandos hasta el commit
    
-| 🦖 **git add readme.me**| 
+| 🦖 **git add readme.me**                                 | 
 |-----------------------------------------------------------|
 | 🦖 **git commit -m "commit del readme del repositorio clonado desde github"**| 
 
@@ -28,7 +28,7 @@
 
 ***Link de la chuleta***
 
-[![a](/img/5.png)]([www.google.es](https://education.github.com/git-cheat-sheet-education.pdf))
+[![a](/img/5.png)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
 
